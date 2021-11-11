@@ -1,5 +1,7 @@
 # Lab 8 - Starter
 
+my name: Bobby Tatum, my partner's name: none
+
 1. Within a Github action that runs whenever code is pushed. No point in running them manually before pushing when the
 github action runs on push. And it would be harmful to run them after all deelopment is completed because the point of
 testing is to catch error *during* development.
